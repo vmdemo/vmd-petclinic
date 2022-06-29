@@ -1,6 +1,6 @@
 package vmd.springframework.vmdpetclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
     private String Name;
 
     public String getName() {
