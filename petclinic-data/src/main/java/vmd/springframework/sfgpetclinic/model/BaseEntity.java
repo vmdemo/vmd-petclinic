@@ -1,4 +1,4 @@
-package vmd.springframework.vmdpetclinic.model;
+package vmd.springframework.sfgpetclinic.model;
 
 import java.io.Serializable;
 

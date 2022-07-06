@@ -1,4 +1,4 @@
-package vmd.springframework.vmdpetclinic.model;
+package vmd.springframework.sfgpetclinic.model;
 
 public class Person extends BaseEntity {
     private String FirstName;

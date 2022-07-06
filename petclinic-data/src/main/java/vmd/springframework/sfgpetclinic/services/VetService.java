@@ -1,6 +1,6 @@
-package vmd.springframework.vmdpetclinic.services;
+package vmd.springframework.sfgpetclinic.services;
 
-import vmd.springframework.vmdpetclinic.model.Vet;
+import vmd.springframework.sfgpetclinic.model.Vet;
 
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package vmd.springframework.vmdpetclinic;
+package vmd.springframework.sfgpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
